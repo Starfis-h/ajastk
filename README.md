@@ -17,6 +17,6 @@
 [<img align="left" alt="Ajastk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/AJASTK22
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/_ajas_tk/
 [linkedin]: https://www.linkedin.com/in/ajas-tk-40137119b/
 
