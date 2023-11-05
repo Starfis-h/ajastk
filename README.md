@@ -18,5 +18,5 @@
 
 [twitter]: https://twitter.com/home
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/feed/
+[linkedin]: https://www.linkedin.com/in/ajas-tk-40137119b/
 
